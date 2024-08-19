@@ -4,7 +4,7 @@ repo: Upptime # The name of this repository
 
 sites:
   - name: '状态监测服务 - MSCPO'
-    url: https://mscpodoc.netlify.app/
+    url: https://mscpostatus.netlify.app/
   - name: 服务器集体宣传组织
     url: http://mscpo.netlify.app/
   - name: MSCPO开服文档
@@ -20,7 +20,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: mscpostatus.netlify.app
   # baseUrl: /your-repo-name
   logoUrl: https://mscpo.netlify.app/logo.png
   name: '状态监测服务 - MSCPO'
