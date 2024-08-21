@@ -4,7 +4,7 @@
     "url": "https://mscpostatus.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/mscpostatus.netlify.app.ico",
     "slug": "status-monitoring-service-mscpo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 226,
     "timeMonth": 226,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-21": 0
+    }
   },
   {
     "name": "Minecraft Server Collective Promotion Organization",
