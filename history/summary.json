@@ -24,18 +24,20 @@
     "url": "http://mscpo.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/mscpo.netlify.app.ico",
     "slug": "minecraft-server-collective-promotion-organization",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 108,
-    "timeWeek": 140,
+    "timeDay": 137,
+    "timeWeek": 143,
     "timeMonth": 176,
     "timeYear": 185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "MSCPO Server Document",
