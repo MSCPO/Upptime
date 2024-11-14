@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 146,
-    "timeDay": 36,
-    "timeWeek": 187,
-    "timeMonth": 128,
-    "timeYear": 146,
+    "time": 147,
+    "timeDay": 239,
+    "timeWeek": 207,
+    "timeMonth": 134,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2024-08-21": 6
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 186,
-    "timeDay": 509,
-    "timeWeek": 257,
-    "timeMonth": 193,
-    "timeYear": 186,
+    "time": 187,
+    "timeDay": 245,
+    "timeWeek": 271,
+    "timeMonth": 199,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2024-10-10": 8
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mscpodoc.netlify.app.ico",
     "slug": "mscpo-server-document",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 140,
-    "timeDay": 408,
-    "timeWeek": 165,
-    "timeMonth": 131,
-    "timeYear": 140,
+    "uptimeYear": "99.98%",
+    "time": 138,
+    "timeDay": 41,
+    "timeWeek": 155,
+    "timeMonth": 130,
+    "timeYear": 138,
     "dailyMinutesDown": {
       "2024-09-17": 17,
       "2024-09-14": 14
