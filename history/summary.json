@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mscpostatus.netlify.app.ico",
     "slug": "status-monitoring-service-mscpo",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 151,
-    "timeDay": 531,
-    "timeWeek": 265,
+    "uptimeYear": "100.00%",
+    "time": 150,
+    "timeDay": 56,
+    "timeWeek": 249,
     "timeMonth": 148,
-    "timeYear": 151,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2024-08-21": 6
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 188,
-    "timeDay": 313,
+    "time": 187,
+    "timeDay": 77,
     "timeWeek": 212,
-    "timeMonth": 196,
-    "timeYear": 188,
+    "timeMonth": 177,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2024-10-10": 8
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 139,
-    "timeDay": 156,
-    "timeWeek": 154,
+    "time": 138,
+    "timeDay": 56,
+    "timeWeek": 126,
     "timeMonth": 132,
-    "timeYear": 139,
+    "timeYear": 138,
     "dailyMinutesDown": {
       "2024-09-17": 17,
       "2024-09-14": 14
