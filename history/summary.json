@@ -4,18 +4,19 @@
     "url": "https://mscpostatus.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/mscpostatus.netlify.app.ico",
     "slug": "status-monitoring-service-mscpo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 95,
-    "timeWeek": 69,
-    "timeMonth": 164,
+    "timeDay": 196,
+    "timeWeek": 98,
+    "timeMonth": 168,
     "timeYear": 155,
     "dailyMinutesDown": {
+      "2025-02-18": 0,
       "2024-08-21": 6
     }
   },
